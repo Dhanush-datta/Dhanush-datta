@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhanush-datta
-- 👀 I’m interested in making money
-- 🌱 I’m currently learning software
-- 💞️ I’m looking to collaborate on instagram
+- 👀 I’m interested in making Web pages
+- 🌱 I’m currently learning software Engineering
+- 💞️ I’m looking for internship to gain experience
 - 📫 How to reach me dhanushdatta68@gmail.com
 
 
